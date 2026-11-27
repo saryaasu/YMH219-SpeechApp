@@ -25,7 +25,7 @@ C# ve .NET Windows Forms kullanılarak geliştirilmiş, metni sesli okutan (Text
 ![Başlatma Ekranı](screenshots/speech_baslat.png)
 
 ### Speech-to-Speech Durdurulma
-![Duraklatma Durum Ekranı](screenshots/speech_duraklatildi.png)
+![Duraklatma Durum Ekranı](screenshots/speech_durduruldu.png)
 
 ### Text-to-Speech Duraklatma
 ![Duraklatma Ekranı](screenshots/speech_duraklatildi.png)
